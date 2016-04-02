@@ -1,0 +1,19 @@
+.dropdown-menu > li > a {
+    width: 180px;
+}
+.main-header {
+    font-weight: normal;
+}
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 14px;
+}
+.carousel-inner .active.left { left: -20%; }
+.carousel-inner .next        { left:  20%; }
+.carousel-control.left,.carousel-control.right {background-image:none;}
+
+.col-lg-2 {width: 20%;}
+.graduate-item{
+  padding-left:0px;
+}
